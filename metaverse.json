@@ -1,0 +1,9 @@
+{
+    "entities": [
+       { "id":"box", "position": "-1 0.5 -3", "rotation": "0 45 0", "geometry": { "primitive": "box"}, "material": { "color": "#4CC3D9" } },
+       { "id":"sphere", "position": "0 1.25 -5", "geometry": { "primitive": "sphere", "radius": "1.25"}, "material": { "color": "#EF2D5E" } },
+       { "id":"cylinder", "position": "1 0.75 -3", "geometry": { "primitive": "cylinder", "radius": "0.5", "height": "1.5"}, "material": { "color": "#FFC65D" } },
+       { "id":"plane", "position": "0 0 -4", "rotation": "-90 0 0", "geometry": { "primitive": "plane", "width": "4", "height": "4"}, "material": { "color": "#7BC8A4" } },
+       { "id":"sky", "geometry": { "primitive": "sky"}, "material": { "color": "#ECECEC" } }
+      ]
+ }
